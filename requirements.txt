@@ -1,0 +1,6 @@
+giskard
+wikipedia-api
+langchain
+langchain.text_splitter
+langchain_community.vectorstores
+langchain.chains
